@@ -1,7 +1,7 @@
 ## Hi there 👋
 - 🔭 I’m currently working on [Plurall AI](plurall.ai), [Forecast Media](https://www.instagram.com/forcast.media?igsh=MWI5aGs2OGg4bnVrOA==), [Young Brilliant Brains](https://www.linkedin.com/company/young-brilliant-brains-club/?viewAsMember=true), a podcast, a documentary (50+ people around the world will be involved), a music EP, and so on :)
 - 🌱 I’m currently learning anything in CS, Math, Philosophy, and myself
-- 👯 I’m looking to collaborate on my current deepfake detection startup [plural ai](plurall.ai) (is hiring founding team members), next billion $ business
+- 👯 I’m looking to collaborate on my current deepfake detection startup [Plurall AI](plurall.ai) (is hiring founding team members), next billion $ business
 - 🤔 I’m looking for help from VCs who are cool and like-minded to build great things together
 - 💬 Ask me about anything AI, deepfake, Web 3.0, blockchain, crypto, trading, working out, self-care, content creation, education, startup experience, etc.
 - 📫 How to reach me: sandraxcyj@gmail.com
