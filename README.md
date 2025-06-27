@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<sub>* BEFORE READING: everything listed here is because I want to do it and I enjoy doing it, no one forces me, no hidden interest. I came up with all of the ideas, I own all of the IP and I'm proud. QUIT NOW IF YOU DO NOT LIKE IT SINCE YOU ARE ONLY 5 SECONDS IN*</sub>
+<sub>* BEFORE READING: everything listed here is because I want to do it and I enjoy doing it, no one forces me, no hidden interest. I came up with all of the ideas, I own all of the IP and I'm proud. QUIT NOW IF YOU DO NOT LIKE IT SINCE YOU ARE ONLY 5 SECONDS IN, YOU ARE WELCOME *</sub>
 
 - ### My religion is truth (if we don't share religion please don't talk to me - before reaching out to me, prove to me you share my religion)
 - ### My MBTI is INTJ, and it's right - I'm afraid that I'm scared by human beings but I interact with them scared (I am often a wired nerd)
