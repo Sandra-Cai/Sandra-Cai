@@ -2,7 +2,7 @@
 
 ### My religion is truth
 
-- 🔭 I'm currently working on [Plurall AI](https://www.plurall.ai/), [Forecast Media](https://www.instagram.com/forcast.media?igsh=MWI5aGs2OGg4bnVrOA==), [Young Brilliant Brains](https://www.linkedin.com/company/young-brilliant-brains-club/?viewAsMember=true), a podcast, a documentary (50+ people around the world will be involved), a music EP, and so on. By the way, I'm inventing a new coding language and a specific technique that is going to matter for the coming decades :)
+- 🔭 I'm currently working on [Plurall AI](https://www.plurall.ai/), [Forecast Media](https://www.instagram.com/forcast.media?igsh=MWI5aGs2OGg4bnVrOA==), [Young Brilliant Brains](https://www.linkedin.com/company/young-brilliant-brains-club/?viewAsMember=true), a podcast, a documentary (50+ people around the world will be involved), a music EP, and so on. By the way, I'm inventing a new coding language and a specific technique that is going to matter for the coming decades
 - 🌱 I'm currently learning anything in CS, Math, Philosophy, and [myself](https://www.linkedin.com/in/yijia-sandra-cai/)
 - 👯 I'm looking to collaborate on my current deepfake detection startup [Plurall AI](https://www.plurall.ai/) (is hiring founding team members), next billion $ business
 - 🤔 I'm looking for help from VCs who are cool and like-minded to build great things together
@@ -26,7 +26,7 @@
 | 💪 **Self-Made** | First successful exit in high school, trading own book |
 | 🎵 **Creative** | Music EP, podcast, documentary, content creation |
 
-## Just incase if you want to introduce me to someone else:
+## Just in case you want to introduce me to someone else:
 
 **Sandra Cai** is a remarkable young entrepreneur and innovator who has been building and scaling ventures since her early teens. At just 18, she had already built a profitable startup and achieved her first successful exit while still in high school. Since age 16, she's been preparing to launch her own fund, combining her experience working across multiple companies with her expertise in trading her own book.
 
@@ -37,6 +37,10 @@ What sets Sandra apart is her innovative thinking - she's currently inventing a 
 Sandra's expertise spans AI, deepfake technology, Web3, blockchain, crypto, trading, content creation, and education. She's looking to connect with like-minded VCs and collaborators who share her vision for building transformative technologies and businesses.
 
 **Contact:** sandraxcyj@gmail.com
+
+---
+
+*Last updated: June 27, 20245
 
 <!--
 **Sandra-Cai/Sandra-Cai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
