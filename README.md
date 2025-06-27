@@ -40,7 +40,7 @@ Sandra's expertise spans AI, deepfake technology, Web3, blockchain, crypto, trad
 
 ---
 
-*Last updated: June 27, 20245
+<sub>*Last updated: June 27, 2025*</sub>
 
 <!--
 **Sandra-Cai/Sandra-Cai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
