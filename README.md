@@ -12,6 +12,29 @@
 - 💭 Original thinking: [Substack](https://substack.com/@caisandra), [X](https://x.com/breakaleggie)
 - 📄 Publication (haven't notified Nature yet but probably will): [Bayes' Theorem](https://docsend.com/view/ess3xnyrjv8umbvk)
 
+| Feature | Description |
+|---------|-------------|
+| 🚀 **Entrepreneur** | Built profitable startup at 17/18, preparing own fund since 16 |
+| 🧠 **Innovator** | Inventing new coding language & technique for coming decades |
+| 👥 **Community Builder** | Built 10,000+ person community since age 13/14 |
+| 🎯 **Multi-Disciplinary** | CS, Math, Philosophy, AI, Web3, Trading, Content Creation |
+| 🌍 **Global Impact** | Documentary with 50+ people worldwide, multiple ventures |
+| 📚 **Scholar** | Published research on Bayes' Theorem, aiming for named scholarship |
+| 💪 **Self-Made** | First successful exit in high school, trading own book |
+| 🎵 **Creative** | Music EP, podcast, documentary, content creation |
+
+## Referral Blurb
+
+Just incase if you want to introduce me to someone else: **Sandra Cai** is a remarkable young entrepreneur and innovator who has been building and scaling ventures since her early teens. At just 18, she had already built a profitable startup and achieved her first successful exit while still in high school. Since age 16, she's been preparing to launch her own fund, combining her experience working across multiple companies with her expertise in trading her own book.
+
+Currently, Sandra is the founder of **Plurall AI**, a deepfake detection startup that's positioned to be the next billion-dollar business. She's also building a 10,000+ person community she's nurtured since age 13/14, and is working on multiple ventures including a documentary involving 50+ people worldwide, a podcast, and even a music EP.
+
+What sets Sandra apart is her innovative thinking - she's currently inventing a new coding language and technique that she believes will be crucial for the coming decades. She's also published research on Bayes' Theorem and is working toward establishing a scholarship in her name to help others succeed.
+
+Sandra's expertise spans AI, deepfake technology, Web3, blockchain, crypto, trading, content creation, and education. She's looking to connect with like-minded VCs and collaborators who share her vision for building transformative technologies and businesses.
+
+**Contact:** sandraxcyj@gmail.com
+
 <!--
 **Sandra-Cai/Sandra-Cai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
