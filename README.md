@@ -1,9 +1,7 @@
 ## Hi there 👋
 
 - ### My religion is truth (if we don't share religion please don't talk to me, before reaching out to me, prove to me you share my religion)
-
 - ### My MBTI is INTJ, and it's right - I'm afraid that I'm scared by human beings but I interact with them scared
-
 - 🔭 I'm currently working on [Plurall AI](https://www.plurall.ai/), [Forecast Media](https://www.instagram.com/forcast.media?igsh=MWI5aGs2OGg4bnVrOA==), [Young Brilliant Brains](https://www.linkedin.com/company/young-brilliant-brains-club/?viewAsMember=true), a podcast, a documentary (50+ people around the world will be involved), a music EP, and so on. By the way, I'm inventing a new coding language and a specific technique that is going to matter for the coming decades
 - 🌱 I'm currently learning anything in CS, Math, Philosophy, and [myself](https://www.linkedin.com/in/yijia-sandra-cai/)
 - 👯 I'm looking to collaborate on my current deepfake detection startup [Plurall AI](https://www.plurall.ai/) (is hiring founding team members), next billion $ business
