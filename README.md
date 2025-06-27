@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<sub>*Everything listed here is because I want to do it and I enjoy doing it, no one forces me, no hidden interest*</sub>
+
 - ### My religion is truth (if we don't share religion please don't talk to me - before reaching out to me, prove to me you share my religion)
 - ### My MBTI is INTJ, and it's right - I'm afraid that I'm scared by human beings but I interact with them scared (I am often a wired nerd)
 - ### I like Internet, I hate screens (hurt my eyes so bad)
