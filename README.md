@@ -16,6 +16,7 @@
 - 📫 How to reach me: sandraxcyj@gmail.com
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I have built a 5,000+ community base since the age of 13/14 and that powered my first startup I did when I was in high school at the age of 17/18 and it was profitable from day and I had my first little successful exit, not the community has grown to around 10,000+ people and I know them fairly well
+- 🏆 I have also participated in and won some [hackathons](https://devpost.com/Sandra-Cai?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav), which helped me learn and grow as a builder
 - 🚀 I'm preparing my own fund by working non-stop since the age of 16, having a little exit from my first startup in high school, working in different companies, and trading my own book, etc.
 - 🎓 One of the goals I have is to have a scholarship under my name helping more people like me to succeed in their lives
 - 💭 Original thinking: [Substack](https://substack.com/@caisandra), [X](https://x.com/breakaleggie)
